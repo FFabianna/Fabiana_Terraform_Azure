@@ -1,5 +1,5 @@
-#Workshop in class Platforms 
-##Azure and terraform 
+# Workshop in class Platforms 
+## Azure and terraform 
 
 After the installation of Azure CLI and terraform, you log in to enter our student account. 
 
