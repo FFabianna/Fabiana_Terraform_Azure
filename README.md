@@ -5,7 +5,8 @@ After the installation of Azure CLI and terraform, you log in to enter our stude
 
 ![image](https://github.com/user-attachments/assets/778b6881-2568-4713-8c94-58bf48cca8ab)
 
-![image](https://github.com/user-attachments/assets/72a8c0c2-8163-4345-82dc-511d842e4c25)
+![image](https://github.com/user-attachments/assets/3ffbbcfe-1490-42e9-87cc-1b7d1328a690)
+
 
 
 We created a terraform folder and created a main.tf 
